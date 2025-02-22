@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Bypass Yeumoney V3
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      3.1
 // @description  Bypass Yeumoney premium
+// @require      https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.user.js
 // @author       script by phantruong
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
