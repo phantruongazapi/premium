@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.2
 // @description  Bypass Yeumoney premium
-// @require      https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
+// @require      https://raw.githubusercontent.com/phantruongazapi/premium/main/pre.js
 // @author       script by phantruong
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
