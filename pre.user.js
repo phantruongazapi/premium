@@ -4,6 +4,8 @@
 // @version      3.4
 // @description  Bypass Yeumoney premium
 // @require      https://raw.githubusercontent.com/phantruongazapi/premium/main/pre.js
+// @updateURL    https://raw.githubusercontent.com/USERNAME/REPO/main/script.user.js
+// @downloadURL  https://raw.githubusercontent.com/phantruongazapi/premium/main/pre.js
 // @author       script by phantruong
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
