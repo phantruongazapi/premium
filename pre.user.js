@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bypass Yeumoney V3
 // @namespace    http://tampermonkey.net/
-// @version      3.2.0
+// @version      3.2.1
 // @description  Bypass Yeumoney premium
 // @updateURL    https://raw.githubusercontent.com/phantruongazapi/premium/main/pre.user.js
 // @downloadURL  https://raw.githubusercontent.com/phantruongazapi/premium/main/pre.user.js
