@@ -3,8 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.2.2
 // @description  Bypass Yeumoney premium
-// @updateURL    https://raw.githubusercontent.com/phantruongazapi/premium/main/pre.user.js
-// @downloadURL  https://raw.githubusercontent.com/phantruongazapi/premium/main/pre.user.js
+// @require      https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
+// @updateURL    https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
+// @downloadURL  https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
 // @author       script by phantruong
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
