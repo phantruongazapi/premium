@@ -5,7 +5,7 @@
 // @description  Bypass Yeumoney premium
 // @require      https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
 // @updateURL    https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.user.js
-// @downloadURL  https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
+// @downloadURL  https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.user.js
 // @author       script by phantruong
 // @match        https://yeumoney.com/*
 // @grant        GM_xmlhttpRequest
