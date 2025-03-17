@@ -6,8 +6,8 @@
 // @author       xGreen
 // @match        https://yeumoney.com/*
 // @require      https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.js
-// @updateURL    https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/freeyeumoney.user.js
-// @downloadURL  https://github.com/phantruongazapi/bypass-yeumoney/raw/refs/heads/main/freeyeumoney.user.js
+// @updateURL    https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.user.js
+// @downloadURL  https://github.com/phantruongazapi/premium/raw/refs/heads/main/pre.user.js
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setValue
 // @grant        GM_getValue
